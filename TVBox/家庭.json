@@ -24,7 +24,7 @@
 
 "sites":[
 
-{"key":"csp_Kunyu77","name":"👒七七〔SP〕本接口在线维护","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/qawse110/tvbox/main/TVBox/jar/77.jar"},
+{"key":"csp_Kunyu77","name":"👒七七〔SP〕出错","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/qawse110/tvbox/main/TVBox/jar/77.jar"},
 {"key":"csp_SP360","name":"💘360〔SP〕","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/qawse110/tvbox/main/TVBox/jar/公众号：云星日记360.jar"},
 {"key":"csp_Kuaikan","name":"👀快看〔SP〕","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小苹果〔SP〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
