@@ -15,7 +15,7 @@
 //云星旗下话费充值折扣公众号：【云优惠生活】
 //详情查看文章介绍：https://mp.weixin.qq.com/s/Bbm6mQtu_DjNJPXcXW0VOA
 {
-"spider":"https://raw.githubusercontent.com/qawse110/tvbox/main/TVBox/jar/main.jar",
+"spider":"https://raw.githubusercontent.com/qawse110/tvbox/main/TVBox/jar/main.jar;md5;1c1482ff646cc40e1f924ebe320822bc",
 
 
 
@@ -24,7 +24,7 @@
 
 "sites":[
 
-{"key":"csp_Kunyu77","name":"👒七七〔SP〕出错","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/qawse110/tvbox/main/TVBox/jar/77.jar"},
+{"key":"csp_Kunyu77","name":"👒七七〔SP〕出错","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/qawse110/tvbox/main/TVBox/jar/77.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"},
 {"key":"csp_SP360","name":"💘360〔SP〕","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/qawse110/tvbox/main/TVBox/jar/公众号：云星日记360.jar"},
 {"key":"csp_Kuaikan","name":"👀快看〔SP〕","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小苹果〔SP〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
